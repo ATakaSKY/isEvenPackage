@@ -1,0 +1,14 @@
+{
+  "name": "isEven-sky",
+  "version": "1.0.0",
+  "description": "Checks if the number is even or not",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "example",
+    "tutorial",
+    "practice"
+  ],
+  "author": "Aakash Thakur",
+  "license": "ISC"
+}
