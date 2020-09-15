@@ -1,5 +1,5 @@
 {
-  "name": "isEven-sky",
+  "name": "is-even-sky",
   "version": "1.0.0",
   "description": "Checks if the number is even or not",
   "main": "index.js",

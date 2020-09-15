@@ -1,13 +1,13 @@
 # How To Install
 
 ```sh
-yarn add isEven-sky
+yarn add is-even-sky
 ```
 
 # How To Use
 
 ```js
-const isEven = require("isEven-sky");
+const isEven = require("is-even-sky");
 
 isEven(2); // true
 
