@@ -9,6 +9,10 @@
     "tutorial",
     "practice"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ATakaSKY/isEvenPackage"
+  },
   "author": "Aakash Thakur",
   "license": "ISC"
 }
